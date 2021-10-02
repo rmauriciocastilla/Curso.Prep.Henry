@@ -1,0 +1,20 @@
+Variables: Son todos aquellos datos a los que les podemos asignar un valor
+El valor puede ser un numero, una palabra, true o false.
+Existe variables que su valor puede cambiar en el transcurso de un programa.
+Sin embargo, hay otras que no pueden hacerlo, es decir, que su valor no cambia durante la ejecucion de un programa. Estas son llamadas constantes.
+
+Strings: Es un tipo de variable que es asignada a las variables de texto.
+Estas se escriben en comillas dobles o simples. Incluso, podemos escribir numeros que no representen un valor, sino un bloque de texto con solo ponerle comillas.
+
+Funciones: Las funciones nos sirven para acortar codigo. Estas 	funciones una vez esten declaradas, pueden ejecutarse durante el codigo. Para eso, estas pueden o no usar argumentos. Si queremos hacer una suma, necesitamos como minimo 2 valores para que sean sumados, es igual en las funciones. Si queremos ejecutar una funcion que necesite elementos de entrada, es necesario entregarle estos argumentos a la funcion para que pueda ejecutarse de forma correcta. En las funciones, podemos configurar si queremos que nos retornen un valor, o no. Si bien es cierto, todas las funciones retornan algo, pero, si en una funcion no se especifica que retorne, esta retorna un valor indefinido.
+
+If:Es un control de flujo que nos ayuda a determinar si una declaracion es verdadera o falsa.
+Podemos hacer una o mas comparaciones dentro de un ciclo if. Podemos verificar si una variable es mayor o menor que otra, si es igual a otra, si es diferente de otra, y solo diciendo esto nos quedamos cortos con todas las aplicaciones que tiene. Si una declaracion es falsa, se usa tambien la funcion else, esta es usada como un "SI NO", ejemplo:
+
+If (numero1 > numero 2) { // Si numero1 es mayor a numero2
+	//Haga esto: inserte su codigo
+} else { // Sino
+	//Haga esto: inserte su codigo
+}
+
+Valores booleanos: Estos son un tipo de variable que nos ayudan a la hora de hacer una comparación, estos datos tienen 2 estados: true y false. true es un valor de tipo verdadero, y false, es un valor que representa falso.
