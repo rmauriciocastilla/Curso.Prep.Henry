@@ -1,0 +1,2 @@
+Arrays: Son arreglos que nos permiten almacenar información. Estos arreglos pueden contener cualquier tipo de dato: numerico, string, booleano, null,...,etc.
+Los arreglos estan definidos por posiciones. Las posiciones inician en 0. Quiere decir que el primer valor de un arreglo pertenece a la posición 0, el segundo seria la posicion 1, y asi. En los arreglos, tambien se pueden guardar funciones, o incluso, otros arreglos.
