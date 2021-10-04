@@ -1,0 +1,10 @@
+For: Es un tipo de bucle que nos ayuda a reducir codigo
+Este ciclo repetira las instrucciones hasta un limite que nosotros mismos establecemos
+Es ciclo FOR es similar a un ciclo While, sin embargo, el FOR es mucho mas facil de usar, y tiende a tener menos errores a la hora de escribirlo, a diferencia de un While.
+
+&&: El "&&" es un tipo de operador logico que funciona a la hora de querer establecer 2 o mas comparaciones. Este funciona en una comparacion como una compuerta AND o en español, "Y". Dentro de una comparación, si usamos el &&, las condiciones tienen que ser true para que funcione. De lo contrario la condición entera sera false.
+
+||: El "||" es un tipo de operador logico que funciona a la hora de querer establecer 2 o mas comparaciones. Esta funciona en una comparación como una compuerta OR o en español, "O". Dentro de una comparacion, si usamos el ||, por lo minimo, una condición debe ser true para que se ejecute la sentencia de la condicion.
+
+!: El "!" es un operador logico que se usa para negar o para cambiar el estado logico de una variable logica. Tambien se usa para establecer que un elemento es diferente de otro.
+
